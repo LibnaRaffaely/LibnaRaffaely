@@ -7,7 +7,7 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/líbna-raffaely" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="líbna raffaely" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/líbna-raffaely-368159295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="líbna raffaely" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas e ferramentas:</h3>
